@@ -1,4 +1,4 @@
-O programa em questão é responsável por receber o body de uma requisição api e armazená-la em um arquivo CSV.
+O programa em questão é responsável por receber o body de uma requisição http e armazená-la em um arquivo CSV.
 
 Os campos obrigatórios do body são:
 
